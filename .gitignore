@@ -1,0 +1,29 @@
+# python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
+
+#vs code
+.vscode/
+.history/
+
+# environmnet $secrets
+*.env
+*.env.local
+*.env.production
+
+# ml/ data science
+*.h5
+*.ckpt
+*.pth
+*.pt
+*.pickle
+*.pkl
+*.joblib
+logs/
+runs/
+data/
+datasets/
